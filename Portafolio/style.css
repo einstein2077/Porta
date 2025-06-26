@@ -1,0 +1,15 @@
+h1#hola {
+    background-color: rgb(255, 255, 255);
+    color: rgb(57, 53, 78);
+    padding:20px;
+    margin:20px;
+    border: 10px;
+    text-align: center;
+}
+p#parrafo {
+    color: blueviolet;
+    text-align: center;
+}
+body {
+    background-color: aquamarine;
+}

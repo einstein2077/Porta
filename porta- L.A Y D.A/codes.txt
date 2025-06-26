@@ -1,0 +1,117 @@
+  
+‎<!DOCTYPE html>
+‎<html lang="es">
+‎<head>
+‎  <meta charset="UTF-8">
+‎  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+‎  <title>Currículum Vitae - Juan Pérez</title>
+‎  <style>
+‎    body {
+‎      font-family: Arial, sans-serif;
+‎      margin: 40px;
+‎      background-color: #f5f5f5;
+‎      color: #333;
+‎    }
+‎
+‎    .container {
+‎      max-width: 800px;
+‎      margin: auto;
+‎      background: white;
+‎      padding: 30px;
+‎      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+‎      border-radius: 10px;
+‎    }
+‎
+‎    h1, h2 {
+‎      color: #004080;
+‎    }
+‎
+‎    .section {
+‎      margin-bottom: 25px;
+‎    }
+‎
+‎    .section h2 {
+‎      border-bottom: 2px solid #004080;
+‎      padding-bottom: 5px;
+‎    }
+‎
+‎    ul {
+‎      padding-left: 20px;
+‎    }
+‎
+‎    .contact-info {
+‎      margin-bottom: 10px;
+‎    }
+‎
+‎    .contact-info p {
+‎      margin: 5px 0;
+‎    }
+‎
+‎    .skills span {
+‎      background: #004080;
+‎      color: white;
+‎      padding: 5px 10px;
+‎      margin: 5px;
+‎      border-radius: 5px;
+‎      display: inline-block;
+‎    }
+‎  </style>
+‎</head>
+‎<body>
+‎  <div class="container">
+‎    <h1>Juan Pérez</h1>
+‎    <div class="contact-info">
+‎      <p>Email: juan.perez@email.com</p>
+‎      <p>Teléfono: +34 600 123 456</p>
+‎      <p>Dirección: Calle Falsa 123, Madrid, España</p>
+‎    </div>
+‎
+‎    <div class="section">
+‎      <h2>Perfil Profesional</h2>
+‎      <p>Desarrollador web con más de 5 años de experiencia creando aplicaciones eficientes y modernas. Apasionado por la tecnología y el desarrollo frontend y backend.</p>
+‎    </div>
+‎
+‎    <div class="section">
+‎      <h2>Experiencia Laboral</h2>
+‎      <ul>
+‎        <li><strong>Desarrollador Full Stack</strong> - Tech Solutions (2021 - presente)
+‎          <br>Desarrollo de aplicaciones web en React y Node.js.
+‎        </li>
+‎        <li><strong>Desarrollador Frontend</strong> - WebStudio (2018 - 2021)
+‎          <br>Diseño y maquetación de interfaces con HTML, CSS y JavaScript.
+‎        </li>
+‎      </ul>
+‎    </div>
+‎
+‎    <div class="section">
+‎      <h2>Educación</h2>
+‎      <ul>
+‎        <li><strong>Grado en Ingeniería Informática</strong> - Universidad Complutense de Madrid (2014 - 2018)</li>
+‎      </ul>
+‎    </div>
+‎
+‎    <div class="section skills">
+‎      <h2>Habilidades</h2>
+‎      <span>HTML</span>
+‎      <span>CSS</span>
+‎      <span>JavaScript</span>
+‎      <span>React</span>
+‎      <span>Node.js</span>
+‎      <span>Git</span>
+‎    </div>
+‎  </div>
+‎</body>
+‎</html>
+pendiente: css caracteristicas fuertes letras mas grnaudfna u9eifewu9iafb u9iwbhnr 89fuhq3wrhfu7h
+
+
+EN PROCESO: 
+PENDIENTE: 
+-animaciones
+-que ande el css
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en"> 
+    <link rel="stylesheet" href="porta.css">
+        
+   
+    <head> 
+     <h1> <h1 style="background-color: rgb(59, 158, 204);"> <p style="text-align: center;"> PORTAFOLIO </p> </h1> </h1>
+      <!---   background color adentro del head le cambia el fondo solo al titulo y no a toda la pagina, poner varios <h> dentro de otro
+        para que anden los styles -->
+   
+     <style>
+        body {
+         background-color: darkgray;
+        }
+     </style>
+     <h3> <p style="text-align: center;"> Alberto Einstein Jr VI </p> </h3>
+      <p style="text-align: center;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvy-WudxUEDc5NX0hRZIteLk_T6SmZFmQN_A&s" alt=""> </p>
+    </head>
+    <body>
+        
+    </body>
+
+   
